@@ -1,2 +1,3 @@
-# PDE
-Includes content from both applied PDE and undergraduate PDE course
+# Applied_Math
+
+Contains lecture notes, homework, and code from previous applied math courses
